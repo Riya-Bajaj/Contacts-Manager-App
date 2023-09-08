@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://riya-bajaj.github.io/Contacts-Manager-App/",
-=======
-  "homepage": "https://riya-bajaj.github.io/contacts-manager-app/",
->>>>>>> 24ef9e43948f5c202e1b0a64bdf63e6c0ff538b2
   "name": "contacts-manager-app",
   "version": "0.1.0",
   "private": true,
